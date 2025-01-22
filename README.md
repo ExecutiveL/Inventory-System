@@ -3,6 +3,6 @@ The Cafe Inventory System is a comprehensive solution designed to streamline the
 
 # Menu Bar
 This is where the customer will place his/her order
-![image](https://github.com/user-attachments/assets/eaeca257-4a7e-45a5-b4d3-122345fd41ec)
+****![image](https://github.com/user-attachments/assets/eaeca257-4a7e-45a5-b4d3-122345fd41ec)
 
 
